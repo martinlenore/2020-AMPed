@@ -1,0 +1,20 @@
+Plate #1:                                                        Start Read: 
+12:15 2019-03-19                      Plate #2:                                                        Start Read: 
+12:15 2019-03-19                      Plate #3                                                         Start Read: 
+12:45 2019-03-19                      Plate #4                                                         Start Read: 
+12:45 2019-03-19                      Plate #5:Start Read: 
+13:15 2019-03-19Plate #6:Start Read: 
+13:16 2019-03-19Plate #7:Start Read: 
+13:48 2019-03-19Plate #8:Start Read: 
+13:49 2019-03-19Plate #9:Start Read: 
+14:43 2019-03-19Plate #10:Start Read: 
+14:44 2019-03-19Plate #11:Start Read:
+ 15:15 2019-03-19Plate #12:Start Read: 
+15:16 2019-03-19Plate #13:Start Read: 
+17:10 2019-03-19Plate #14:Start Read: 
+17:11 2019-03-19Plate #15:Start Read: 
+8:16 2019-03-20
+Plate #16:Start Read: 
+8:17 2019-03-20Plate #17:Start Read: 
+10:20 2019-03-20Plate #18:Start Read: 
+10:19 2019-03-20 
